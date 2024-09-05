@@ -18,4 +18,5 @@ Aplikasi harus menampilkan status BMI sesuai dengan standar berikut:
   - Tinggi Badan 167 CM BMI = 60 / (167/100)^2 BMI = 60 / (2.8) BMI = 21.5 BMI Categories: Normal Weight
 
 HASIL AKHIR:
-![calculatorBMI](https://github.com/user-attachments/assets/aa679e1f-c758-4124-b63e-ef547d88f614)
+![calculatorBMI](https://github.com/user-attachments/assets/40810b64-d228-42fa-a0d9-2e6c1e5c2633)
+
